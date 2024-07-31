@@ -1,19 +1,47 @@
-# 🎈 Blank app template
 
-A simple Streamlit app template for you to modify!
+# Add a User Authentication Service (Login Form) in Streamlit
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+In this video, I will show you how to add a user authentication service (login form) in Streamlit so that your users can log in and see the content of your streamlit app. To implement the user authentication, we will use the ‘streamlit-authenticator’ library, a secure authentication module to validate user credentials in a Streamlit application.
 
-### How to run it on your own machine
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/JoFGrSRj4X4/0.jpg)](https://youtu.be/JoFGrSRj4X4)
 
-1. Install the requirements
+## Demo Website
+⭐ https://userauth-dashboard.herokuapp.com/
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## Screenshot
+![Login Screenshot](/demo.jpg?raw=true "Login Form")
 
-2. Run the app
+## Streamlit-authenticator
+⭐ Check out the library here: https://github.com/mkhorasani/Streamlit-Authenticator
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+
+
+## 🤓 Check Out My Excel Add-ins
+I've developed some handy Excel add-ins that you might find useful:
+
+- 📊 **[Dashboard Add-in](https://pythonandvba.com/grafly)**: Easily create interactive and visually appealing dashboards.
+- 🎨 **[Cartoon Charts Add-In](https://pythonandvba.com/cuteplots)**: Create engaging and fun cartoon-style charts.
+- 🤪 **[Emoji Add-in](https://pythonandvba.com/emojify)**: Add a touch of fun to your spreadsheets with emojis.
+- 🛠️ **[MyToolBelt Add-in](https://pythonandvba.com/mytoolbelt)**: A versatile toolbelt for Excel, featuring:
+  - Creation of Pandas DataFrames and Jupyter Notebooks from Excel ranges
+  - ChatGPT integration for advanced data analysis
+  - And much more!
+
+
+
+## 🤝 Connect with Me
+- 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
+- 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
+- 💬 **Discord:** [Join our Community](https://pythonandvba.com/discord)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sven-bosau/)
+- 📸 **Instagram:** [Follow me](https://www.instagram.com/codingisfun_official/)
+
+## Support My Work
+Love my content and want to show appreciation? Why not [buy me a coffee](https://pythonandvba.com/coffee-donation) to fuel my creative engine? Your support means the world to me! 😊
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
+
+## Feedback
+Got some thoughts or suggestions? Don't hesitate to reach out to me at contact@pythonandvba.com. I'd love to hear from you! 💡
+![Logo](https://www.pythonandvba.com/banner-img)
